@@ -8,6 +8,14 @@ Powered by Eve, SQLAlchemy and good intentions this extension allows
 to effortlessly build and deploy highly customizable, fully featured
 RESTful Web Services with SQL-based backends.
 
+Maintenance Notice
+------------------
+
+As of some years ago, Eve-SQLAlchemy has been effectively unmaintained. I am no
+longer actively using it, which makes it increasingly difficult to find the
+time for even small updates. If anyone is interested in taking over maintenance
+of Eve-SQLAlchemy, please reach out to me.
+
 Eve-SQLAlchemy is simple
 ------------------------
 
